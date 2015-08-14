@@ -1,0 +1,11 @@
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+*.cmake
+/Makefile
+DINO/Makefile
+DINO/Debug/
+DINO/DINO.dylib
+DINO/DINO.so
+Project.build/
+/Project.xcodeproj/
